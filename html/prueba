@@ -1,0 +1,58 @@
+<!Doctype html>
+<title> Kobe Bryant</title>
+
+<div style="text-align: center;"style="background-color: #ff4000">
+  	<style>
+  body {
+    background-color: #ff4000; /* Gris claro */
+    /* También puedes usar: background-color: lightblue; o background-color: rgb(240, 240, 240); */
+  }
+	</style>
+
+<html>
+
+	<h1> Kobe Bryant </h1>
+	
+</html>
+	
+	<td> <img src="../figuras/kobe.jpeg"dispaly= "block" width="900" height="450" ></td>
+
+	<h2> INTRODUCCIÓN </h2> 
+	<p style="font-size: 20px;">
+	
+​​
+
+</p>
+
+	
+	<h2>  Historia </h2>
+<p style="font-size: 20px;">
+
+</p>​
+	<h2>  Universidad </h2>
+<p style="font-size: 20px;">
+	
+
+</p>
+
+<table border='10' style="margin: 0 auto;">
+	
+		<tr>
+			<td> <a Href ='../index.html'> <figcaption> inicio<img src="../figuras/inicio.png"width="35" height="25" ></figcaption></a></td>
+		
+			<td><a Href ='kobe.html'><figcaption>kobe<img src="../figuras/kobe.jpeg"width="35" height="25" ></figcaption></a></td>
+		
+			<td><a Href ='lamelo.html'><figcaption>lamelo<img src="../figuras/lamelo.jpeg"width="35" height="25" ></figcaption></a></td>
+		
+		</tr>
+	
+		<tr>
+			<td><a Href ='jamorant.html'><figcaption> ja<img src="../figuras/jamorant.png"width="35" height="25"></figcaption></a></td>
+		
+			<td><a Href ='curry.html'><figcaption> curry<img src="../figuras/curry.jpeg"width="35" height="25"></figcaption></a>
+</td></td>
+		
+			<td> <a Href ='giannis.html'><figcaption> antetokumpo<img src="../figuras/giannis.jpeg"width="35" height="25"></figcaption></a></td>
+
+
+</div>		
